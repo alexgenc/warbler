@@ -4,9 +4,9 @@ This project is intended to create a somewhat-functioning [Twitter](https://twit
 ## Introduction
 This application was built with the purpose of getting more experience with Python framework Flask and SQLAlchemy.
 
-![Warbler.jpg](https://i.postimg.cc/rwTqZzY2/Warbler.jpg)
-
 Live Demo: https://alexgenc-warbler.herokuapp.com/
+
+![Warbler.jpg](https://i.postimg.cc/rwTqZzY2/Warbler.jpg)
 
 ## Features
 
